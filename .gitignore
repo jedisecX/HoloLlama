@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+.DS_Store
+
+# Local models and runtime memory (do not commit)
+models/
+*.gguf
+holo_memory/
+*.pt
